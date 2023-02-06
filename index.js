@@ -9,7 +9,7 @@ const app = express();
 const cors = require("cors");
 
 app.use(cors());
-app.use(express.json);
+app.use(express.json());
 
 app.get("/", (req, res) => {
     res.status(200).send("<h1>WELCOME TO API</h1>")
