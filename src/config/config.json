@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "kevintanes",
-    "password": "Tan@141196",
-    "database": "sosial_media_db",
+    "username": "",
+    "password": "",
+    "database": "",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
